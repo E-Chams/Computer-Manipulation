@@ -3,7 +3,6 @@ package com.example.controle;
 
 import com.example.controle.dao.entities.Computer;
 import com.example.controle.dao.repositories.ComputerRepository;
-import com.example.controle.dto.ComputerDto;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

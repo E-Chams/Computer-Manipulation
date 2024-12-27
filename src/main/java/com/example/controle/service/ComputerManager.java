@@ -14,9 +14,9 @@ import java.util.List;
 @Service
 @AllArgsConstructor
 public class ComputerManager implements ComputerService{
-    @Autowired
+
     private ComputerRepository computerRepository;
-    @Autowired
+
     private ComputerMapper computerMapper;
 
 

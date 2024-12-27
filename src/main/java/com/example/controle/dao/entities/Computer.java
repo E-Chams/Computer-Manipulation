@@ -15,7 +15,7 @@ import lombok.*;
 public class Computer {
     @Id
     @GeneratedValue
-    Long id_Pc;
+    Long idPc;
     String proce;
     String ram;
     String hardDrive;

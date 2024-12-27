@@ -1,6 +1,5 @@
 package com.example.controle.dto;
 
-import jakarta.persistence.Entity;
 import lombok.*;
 
 

@@ -1,6 +1,4 @@
 package com.example.controle.service;
-
-import com.example.controle.dao.entities.Computer;
 import com.example.controle.dto.ComputerDto;
 import org.springframework.stereotype.Service;
 
