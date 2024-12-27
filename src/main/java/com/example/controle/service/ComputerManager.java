@@ -5,7 +5,6 @@ import com.example.controle.dao.repositories.ComputerRepository;
 import com.example.controle.dto.ComputerDto;
 import com.example.controle.mapper.ComputerMapper;
 import lombok.AllArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
